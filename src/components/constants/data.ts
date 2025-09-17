@@ -24,6 +24,7 @@ export const USER_NAMES = {
 export const SOCIAL_LINKS = {
   github: "https://github.com/sheetu89",
   linkedin: "https://linkedin.com/in/sheetalbhardwaj1", // update with your LinkedIn slug
+  instagram: "",
   twitter: "",
   leetcode: "https://leetcode.com/sheetu89", // if you want to showcase
   peerlist: "",
